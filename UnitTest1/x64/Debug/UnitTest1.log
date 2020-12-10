@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Костя\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(16,20): warning C4101: position: неиспользованная локальная переменная
+     Создается библиотека C:\Users\Костя\source\repos\ConsoleApplication10\x64\Debug\UnitTest1.lib и объект C:\Users\Костя\source\repos\ConsoleApplication10\x64\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __cdecl Tree::contains(int)" (?contains@Tree@@QEAA_NH@Z) в функции "public: void __cdecl UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QEAAXXZ)
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Tree::insert(int)" (?insert@Tree@@QEAAXH@Z) в функции "public: void __cdecl UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QEAAXXZ)
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Tree::remove(int)" (?remove@Tree@@QEAAXH@Z) в функции main
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Tree::up(void)" (?up@Tree@@QEAAXXZ) в функции main
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl Tree::right(void)" (?right@Tree@@QEAAXXZ) в функции main
+C:\Users\Костя\source\repos\ConsoleApplication10\x64\Debug\UnitTest1.dll : fatal error LNK1120: неразрешенных внешних элементов: 5
