@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\Костя\source\repos\ConsoleApplication22\UnitTest1\UnitTest1.cpp(1): warning C4603: _USE_MATH_DEFINES: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\Костя\source\repos\ConsoleApplication22\UnitTest1\UnitTest1.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\Костя\source\repos\ConsoleApplication22\UnitTest1\UnitTest1.cpp(5): message : использование предварительно скомпилированного заголовка
+C:\Users\Костя\source\repos\ConsoleApplication22\UnitTest1\Header.h(10,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Костя\source\repos\ConsoleApplication22\UnitTest1\Header.h(248): warning C4715: calculator: значение возвращается не при всех путях выполнения
+  UnitTest1.vcxproj -> C:\Users\Костя\source\repos\ConsoleApplication22\Debug\UnitTest1.dll

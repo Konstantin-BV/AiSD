@@ -1,0 +1,12 @@
+﻿  ConsoleApplication22.cpp
+C:\Users\Костя\source\repos\ConsoleApplication22\UnitTest1\Header.h(10,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Костя\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(16,9): warning C4566: символ, представленный универсальным именем символа "\u00D1", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Костя\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(16,9): warning C4566: символ, представленный универсальным именем символа "\u00F2", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Костя\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(16,9): warning C4566: символ, представленный универсальным именем символа "\u00F0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Костя\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(16,9): warning C4566: символ, представленный универсальным именем символа "\u00EE", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Костя\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(16,9): warning C4566: символ, представленный универсальным именем символа "\u00EA", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Костя\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(16,9): warning C4566: символ, представленный универсальным именем символа "\u00E0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Костя\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(21,17): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Костя\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(12,7): warning C4101: s: неиспользованная локальная переменная
+C:\Users\Костя\source\repos\ConsoleApplication22\UnitTest1\Header.h(248): warning C4715: calculator: значение возвращается не при всех путях выполнения
+  ConsoleApplication22.vcxproj -> C:\Users\Костя\source\repos\ConsoleApplication22\Debug\ConsoleApplication22.exe
